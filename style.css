@@ -13,3 +13,8 @@ body {
     font-size: 30px;
     text-align: justify;
 }
+
+#imagem{
+    height: 200px;
+    width: 200px;
+}
