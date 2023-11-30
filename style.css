@@ -10,6 +10,11 @@ header{
     border-bottom: 5px solid #362FD9;
     background: #bfbfbf;
 }
+
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
+}
      
 #titulo {
     color: #0E21A0;
